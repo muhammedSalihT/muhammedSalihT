@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋,  I'm Mushthak</h1>
+<h1 align="center">Hi 👋,  I'm Muhammed Salih T</h1>
 <h3 align="center">A passionate Flutter , NodeJS developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=MushthakVP&style=flat)
 
-- 🔭 I’m currently working on [FauxSpot - Turf Booking](https://github.com/MushthakVP/Faux-Spot.git)
+- 🔭 I’m currently working on  [FauxSpot - Turf Booking](https://github.com/MushthakVP/Faux-Spot.git)
 
 - 🌱 I’m currently learning *Node js , MongoDb*
 - 👨‍💻 All of my projects are available at [PersonalWebsite](https://mushthakvp.github.io/PersonalWebsite/)
