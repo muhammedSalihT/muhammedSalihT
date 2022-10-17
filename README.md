@@ -18,9 +18,7 @@
 <p><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></p>
 <p>Connect with me:</p>
 <p align="left">
- <a target="_blank" href="https://www.linkedin.com/in/musthak/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="https://www.instagram.com/___mushthak/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
- <a target="_blank" href="https://stackoverflow.com/users/19172305/mushthak-vp" ><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+ <a target="_blank" href="https://www.linkedin.com/in/muhammed-salih-t-868b03230/" /></a>
  
-  <a target="_blank" href="mailto:mail.musthak@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="mhdsalih9656@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  </p>
