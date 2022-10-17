@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Muhammed Salih T</h1>
-<h3 align="center">A passionate Flutter , NodeJS developer</h3>
+<h3 align="center">A Passionate Fullstack Flutter Developer,</h3>
 
 ![](https://komarev.com/ghpvc/?username=MushthakVP&style=flat)
 
