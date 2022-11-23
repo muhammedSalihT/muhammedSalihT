@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpv773&label=Profile%20views&color=e87e38&style=flat" alt="pranavpv773" /> </p>
-  <p align="left"> <img src="https://user-images.githubusercontent.com/91565180/200851311-35246972-5cd6-45d9-8bd1-6c2046d480e4.gif" alt="pranavpv773" /> </p>
 
+  <p align="left"> <img src="https://user-images.githubusercontent.com/91565180/200851311-35246972-5cd6-45d9-8bd1-6c2046d480e4.gif" alt="pranavpv773" /> </p>
+zzzzzz
 <h1 align="center">Hi 👋,  I'm Muhammed Salih T</h1>
 <h3 align="center">A Passionate Fullstack Flutter Developer,</h3>
 
