@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MushthakVP&style=flat)
 
-- 🔭 My latest project  [Alarm App](https://github.com/muhammedSalihT/ShopCart_Using_Api-Getx.git)
+- 🔭 My latest project  [Alarm App]([https://github.com/muhammedSalihT/alarm_app])
 
 - 🌱 I’m currently learning *Node js , MongoDb*
 <p>Frameworks & Library</p> 
